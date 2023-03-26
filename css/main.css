@@ -394,7 +394,7 @@ p {
 }
 
 .site-contact {
-  background: url("../../assets/img/contact.jpeg") center/cover fixed;
+  background: url("../assets/img/contact.jpeg") center/cover fixed;
   color: #eff0f3;
   position: relative;
   height: 85vh;
